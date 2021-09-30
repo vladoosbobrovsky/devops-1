@@ -1,6 +1,3 @@
-# devops
-DevOps labs
-
-First lab
+# DevOps labs
 Usage:
 - vagrant up
